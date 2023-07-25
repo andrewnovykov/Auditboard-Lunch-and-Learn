@@ -27,4 +27,4 @@ value = 81
 arr = [21,60]
 ```
 
-![1690244877202](image/findTwoNumbers/1690244877202.png)
+![1690247625155](image/findTwoNumbers/1690247625155.png)
